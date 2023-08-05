@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    background-color:#dff9fb;
+    font-size:120%;
+    background-image: url('ONLINE VOTING SYSTEM/evote.jpg'); 
+    
+}
+#header{
+    padding:7px;
+}
+#header h1{
+  font-family:font-family: 'Bangers', cursive;
+}
+input{
+    padding:10px;
+    border-radius:10px;
+}
+#dropbox{
+    padding:10px;
+    border-radius:10px;
+    width:10%;
+}
+#loginbutton{
+    padding:5px;
+    border-radius:10px;
+    width:8% ;
+    background-color:lightblue;
+    color:black;
+    font-size:80%;
+}
